@@ -22,5 +22,5 @@ This project displays a collection of Pokémon images dynamically using JavaScri
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/Pokemon-Project.git
+   [git clone https://github.com/YourUsername/Pokemon-Project.git](https://github.com/Al-AminKhan043/Pokemon.git)
    cd Pokemon-Project
